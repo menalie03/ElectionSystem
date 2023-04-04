@@ -1,0 +1,6 @@
+candidat1: (af,187)
+candidat2: (149,1b5)
+candidat3: (e3,187)
+candidat4: (c1,1ed)
+candidat5: (17,2c9)
+candidat6: (17b,227)
